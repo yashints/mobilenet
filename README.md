@@ -2,6 +2,8 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.6.
 
+This application is using TensorFlow.js to import the MobileNet neural network into an Angular application and use it to predict what is an uploaded picture.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
